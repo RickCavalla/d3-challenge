@@ -1,3 +1,5 @@
 # d3-challenge
-# This is a placeholder
-# Do not grade (yet!)
+# 
+# Two labels/datasets per axis
+# X = Poverty and Age
+# Y = Healthcare and Obesity
